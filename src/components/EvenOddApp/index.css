@@ -1,0 +1,32 @@
+.main-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  height: 60vh;
+  width: 50vw;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  border-radius: 15px;
+  margin-left: 300px;
+  font-family: Roboto;
+}
+.heading {
+  color: #0f172a;
+  font-size: 60px;
+}
+.oddEven {
+  font-size: 30px;
+  color: #334155;
+}
+.btn {
+  height: 40px;
+  width: 100px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.info {
+  color: #334155;
+}
